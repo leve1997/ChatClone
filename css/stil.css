@@ -1,0 +1,89 @@
+#horlist {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+#flt {
+    float: left;
+  }
+  
+li #menu {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+li #menu:hover {
+    background-color: #111111;
+  }
+
+pre {
+    background-color: lightgray;
+    padding-top: 20px;
+    padding-left: 50px;
+    height: 40px;
+    border: 2px solid black;
+}
+
+header {
+    margin-left: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    background-color: blue;
+    height: 75px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+}
+
+header h1 {
+    color: whitesmoke;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li pre a {
+    float:right;
+    padding-right: 50px;
+}
+
+p {
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 20px;
+    border: 2px solid white;
+    background-color: blue;
+    color: whitesmoke;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div {
+    margin-left: 50px;
+    margin-top: 25px;
+    width:90%;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+
